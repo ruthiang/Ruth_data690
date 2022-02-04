@@ -14,5 +14,5 @@ B.S in Statistics and Economics, George Washington University, 2021
 
 ## Hobbies
 * Hiking, Volleyball, and Watching movies and dramas
-![](https://airwallpaper.com/volleyball-wallpaper-free-download/)
+![Volleybal wallpaper](https://airwallpaper.com/volleyball-wallpaper-free-download/)
 ![](hiking.jpeg)
