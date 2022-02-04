@@ -1,7 +1,7 @@
 # Ruth Iang
-https://www.linkedin.com/in/ruth-iang/
+### https://www.linkedin.com/in/ruth-iang/
 
-(![IMG_7446](https://user-images.githubusercontent.com/98433448/152609394-22fbf205-ac54-475f-9883-f2364d41d107.jpeg)
+![IMG_7446](https://user-images.githubusercontent.com/98433448/152609394-22fbf205-ac54-475f-9883-f2364d41d107.jpeg)
 
 
 ## Contact information:
