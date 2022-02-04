@@ -14,5 +14,5 @@ B.S in Statistics and Economics, George Washington University, 2021
 
 ## Hobbies
 * Hiking, Volleyball, and Watching movies and dramas
-![Volleyball](/Users/ruthiang/Downloads)
+![Volleyball](/Users/ruthi![hiking](https://user-images.githubusercontent.com/98433448/152601031-1b107bd6-e9d7-468c-b85b-33f323f7c083.jpeg)
 ![](hiking.jpeg)
