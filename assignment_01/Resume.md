@@ -1,11 +1,12 @@
 # Ruth Iang
 https://www.linkedin.com/in/ruth-iang/
 
-![IMG_7446](https://user-images.githubusercontent.com/98433448/152603414-b8f68793-f2c1-45e7-80c7-b5f1529dd77d.jpeg)
+(![IMG_7446](https://user-images.githubusercontent.com/98433448/152609394-22fbf205-ac54-475f-9883-f2364d41d107.jpeg)
+
 
 ## Contact information:
-### Personal: iangruth99@gmail.com 
-### School: umbc1@gmail.com
+* Personal: iangruth99@gmail.com 
+* School: umbc1@gmail.com
 
 ## Experience and Career Objectives
 * Currently working as a quality control assistant, June 2021-Present
@@ -13,9 +14,9 @@ https://www.linkedin.com/in/ruth-iang/
 
 ## Employment Experience
 * Editor at GWU Economics Journal, January-May 2021
-  * Reviewed proseminar research papers from GWU economics senior students
+  * Reviewed proseminar research papers from GWU Economics senior students
   * Analyzed statistical methods to see they are used correctly
-  * Assessed deatials, grammar and writing flow in the research papers
+  * Assessed details, grammar and writing flow in the research papers
 * Investment Analyst at Paragon Asia, 2020-2021
   * Reached out to investors in the Shanghai and Hong Kong area
   * Researched new companies of investors
