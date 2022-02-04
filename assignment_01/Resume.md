@@ -1,14 +1,27 @@
 # Ruth Iang
+https://www.linkedin.com/in/ruth-iang/
+
 (![IMG_7446](https://user-images.githubusercontent.com/98433448/152603414-b8f68793-f2c1-45e7-80c7-b5f1529dd77d.jpeg)
 
-Contact info: *iangruth99@gmail.com or umbc1@gmail.com*
+Contact information:
+Personal: iangruth99@gmail.com 
+School: umbc1@gmail.com*
 
 ## Experience and Career Objectives
 * Currently working as a quality control assistant, Present
 * Hope to get a job as a data scientist after graduation
-* Editor at GWU Economics Journal, 2021
+
+## Employment Experience
+* Editor at GWU Economics Journal, Jnauary-May 2021
+  * Reviewed proseminar research papers from GWU economics senior students
+  * Analyzed statistical methods to see they are used correctly
+  * Assessed deatials, grammar and writing flow in the research papers
 * Investment Analyst at Paragon Asia, 2020-2021
+  * Reached out to investors in the Shanghai and Hong Kong area
+  * Researched new companies of investors
 * Intern at Cash Campaign, 2020
+  * Filed free tax returns for underpriviledged familie and inidividuals
+  * Performed office duties such as copying, and scanning documents  
 
 ## Education
 B.S in Statistics and Economics, George Washington University, 2017-2021
@@ -19,5 +32,7 @@ M.P.S in Data Science, University of Maryland, Baltimore County, 2022-2023
 * C Programming Language
 
 ## Hobbies
-* Hiking, Volleyball, and Watching movies and dramas
+* Hiking
+* Volleyball
+* Watching movies and dramas
 
