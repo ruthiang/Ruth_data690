@@ -29,7 +29,7 @@
 * M.P.S in Data Science, University of Maryland, Baltimore County, 2022-2023
 
 ## Business Skills
-* Great analytical skilles
+* Great analytical skills
 * Microsoft Office (Powerpoint, Word, Excel)
 
 ## Technical/Computer Skills
