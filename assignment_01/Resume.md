@@ -1,5 +1,7 @@
 # Ruth Iang
 Contact info: *iangruth99@gmail.com or umbc1@gmail.com*
+![](![IMG_7446](https://user-images.githubusercontent.com/98433448/152603414-b8f68793-f2c1-45e7-80c7-b5f1529dd77d.jpeg)
+
 
 ## Experience and Career Objectives
 * Currently working as a quality control assistant 
@@ -14,5 +16,4 @@ B.S in Statistics and Economics, George Washington University, 2021
 
 ## Hobbies
 * Hiking, Volleyball, and Watching movies and dramas
-![Volleyball](/Users/ruthi![hiking](https://user-images.githubusercontent.com/98433448/152601031-1b107bd6-e9d7-468c-b85b-33f323f7c083.jpeg)
-![](hiking.jpeg)
+
