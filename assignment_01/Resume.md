@@ -1,7 +1,7 @@
 # Ruth Iang
-Contact info: *iangruth99@gmail.com or umbc1@gmail.com*
-![](![IMG_7446](https://user-images.githubusercontent.com/98433448/152603414-b8f68793-f2c1-45e7-80c7-b5f1529dd77d.jpeg)
+(![IMG_7446](https://user-images.githubusercontent.com/98433448/152603414-b8f68793-f2c1-45e7-80c7-b5f1529dd77d.jpeg)
 
+Contact info: *iangruth99@gmail.com or umbc1@gmail.com*
 
 ## Experience and Career Objectives
 * Currently working as a quality control assistant 
