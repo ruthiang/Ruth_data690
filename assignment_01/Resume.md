@@ -3,9 +3,9 @@ https://www.linkedin.com/in/ruth-iang/
 
 ![IMG_7446](https://user-images.githubusercontent.com/98433448/152603414-b8f68793-f2c1-45e7-80c7-b5f1529dd77d.jpeg)
 
-Contact information:
-Personal: iangruth99@gmail.com 
-School: umbc1@gmail.com
+## Contact information:
+### Personal: iangruth99@gmail.com 
+### School: umbc1@gmail.com
 
 ## Experience and Career Objectives
 * Currently working as a quality control assistant, June 2021-Present
