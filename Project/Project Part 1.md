@@ -24,33 +24,33 @@ Education:
 ## The Relationship between Socio-economic Class and Prevalence of Anemia among Women of Reproductive Age
 - As we can see on the time series plot below, those that fall in the high income class have the lowest prevalence of anemia in WRA, and those that fall in the low income class have the highest prevalence of anemia for WRA. We can also see that the percentage of people getting anemia is increasing throughout the years.
 
-![Line Data](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/newplot%20(4).png)
+![Line Data](https://github.com/ruthiang/Ruth_data690/blob/main/charts/newplot%20(4).png)
 
-![Bar Chart](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/newplot.png)
+![Bar Chart](https://github.com/ruthiang/Ruth_data690/blob/main/charts/newplot.png)
 
 - Based on the bar graph above, those that fall in the low income class have the highest percentage for having anemia, followed by lower middle income, upper income, not classified, and high income. This just shows that poorer women at the age of procreating are more likely to have anemia, and those with more money are less likely to develop it.
 
-![Scatter](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/newplot%20(1).png)
+![Scatter](https://github.com/ruthiang/Ruth_data690/blob/main/charts/newplot%20(1).png)
 - The scatter plot shows us that there is a negative correlation between the prevalence of anemia among women of reproductive age and GDP per capita. It shows us the more money a country has, the less chances there are of having anemia.
 
-![OLS Regression](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/Screen%20Shot%202022-03-12%20at%2012.15.55%20PM.png)
+![OLS Regression](https://github.com/ruthiang/Ruth_data690/blob/main/charts/Screen%20Shot%202022-03-12%20at%2012.15.55%20PM-1.png)
 - The r-squared or coefficient of determination is 0.359, which means 35.9% of the variation in anemia is explained by changes in the GDP of a country.
 
 ## Association between Contraception Use and Anemia among Women at the Age of Conceiving
 - Based on the bubble chart below, there seems to a negative correlation between the use of contraceptives, and prevalence of anemia among women in reproductive age. The usage of condoms is the lowest for low income females, but the chances of getting anemia are also the highest for them. This could be due to the fact that condoms are harder to purchase due to lack of availability, and money issues in poorer classes and countries.
 
-![Condom Use](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/newplot%20(3).png)
+![Condom Use](https://github.com/ruthiang/Ruth_data690/blob/main/charts/newplot%20(3).png)
 
 ## Relationship between Problems in Accessing Health Care and Presence of Anemia
 - There are not enough data for incomes above lower middle class even when we use all the quartiles, but as we look at the bubble chart, we can see that those in the lower middle income have less problems accessing healthcare and have less occurrence of anemia than those from low income.
 
-![Health Bubble](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/newplot%20(10).png)
+![Health Bubble](https://github.com/ruthiang/Ruth_data690/blob/main/charts/newplot%20(10).png)
 
 ## Association between Educational Attainment and Frequency of Anemia among Women of Reproductive Age
 
 - Based on the bubble chart below, there is a strong negative correlation between educational attainment and frequency of anemia in women of reproductive age. Educational attainment factors cover women above 25 years that have at least a Bachelor's degree or equivalent. These relationships show us that educated women are more likely to be health conscious and take care of their health, resulting in better health. Now, we don't know if there is a causal relationship, but there is an association for sure.
 
-![Educational attainment](https://github.com/ruthiang/World_Development_Explorer/blob/main/charts/newplot%20(9).png)
+![Educational attainment](https://github.com/ruthiang/Ruth_data690/blob/main/charts/newplot%20(9).png)
 
 ## Conclusion:
 
